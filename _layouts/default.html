@@ -51,10 +51,8 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js"></script>
     
     <script>
-      TweenMax.staggerFrom(".gsap-cycle", 1, {
-        cycle: {
-      x: [100, 0, -100],
-          },
+      TweenMax.staggerFrom(".gsap-cycle", 0.5, {
+          x: -100,
           opacity: 0,
           ease: Power2.easeInOut
         }, 0.10);
