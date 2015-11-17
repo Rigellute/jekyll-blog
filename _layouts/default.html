@@ -51,12 +51,13 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js"></script>
     
     <script>
-    TweenMax.set('.gsap-cycle', {opacity: 0});
+    $(document).ready(function(){
       TweenMax.staggerFrom(".gsap-cycle", 0.5, {
           x: -100,
           opacity: 0,
           ease: Power2.easeInOut
         }, 0.10);
+    });
     </script>
   </body>
 </html>
