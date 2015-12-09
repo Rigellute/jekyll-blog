@@ -57,7 +57,8 @@
           opacity: 0,
           ease: Power2.easeInOut
         }, 0.10);
-      TweenMax.to('.gsap-rotate', 100, {delay: 3, rotation: '360deg', repeat: -1});
+      TweennMax.set('.gsap-rotate', {strokeDasharray: 2776})
+      TweenMax.to('.gsap-rotate', 100, {delay: 3, rotation: '360deg',, strokeDasharray: 0, repeat: -1});
     });
     </script>
   </body>
