@@ -3,6 +3,7 @@ layout: post
 title: How My Website Was Made
 ---
 I have broken this down into three parts. 
+
 * Part one covers the design process. 
 * Part two covers the tools I used.
 * Part three covers more technical details (like the scrolling animations) and goes through some of the many challenges I ran into, including how I overcame them.
