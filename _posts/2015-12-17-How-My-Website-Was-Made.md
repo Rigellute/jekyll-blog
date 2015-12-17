@@ -5,7 +5,7 @@ title: How My Website Was Made (Part 1)
 I have broken this down into three parts. 
 
 * Part one covers the design process. 
-* Part two covers the tools I used.
+* [Part two](https://rigellute.github.io/blog/How-My-Website-Was-Made-Part2/) covers the tools I used.
 * Part three covers more technical details (like the scrolling animations) and goes through some of the many challenges I ran into, including how I overcame them.
 
 This is part one which will cover the design process in building my home webpage:
