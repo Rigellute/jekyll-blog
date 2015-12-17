@@ -1,5 +1,3 @@
-# How my main website was made.
-
 I have broken this down into three parts. 
 1. Part one covers the design process. 
 2. Part two covers the tools I used.
