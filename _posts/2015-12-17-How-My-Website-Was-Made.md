@@ -3,9 +3,9 @@ layout: post
 title: How My Website Was Made
 ---
 I have broken this down into three parts. 
-1. Part one covers the design process. 
-2. Part two covers the tools I used.
-3. Part three covers more technical details (like the scrolling animations) and goes through some of the many challenges I ran into, including how I overcame them.
++ Part one covers the design process. 
++ Part two covers the tools I used.
++ Part three covers more technical details (like the scrolling animations) and goes through some of the many challenges I ran into, including how I overcame them.
 
 This is part one which will cover the design process in building my home webpage:
 ### 1. Design
@@ -18,7 +18,7 @@ For typography, I used Helvetica Neue for its simplicity and proven legibility o
 My brand logo is a simple heptagon (in SVG format for crisp, scalable greatness). The reason behind the heptagon, apart from its innate beauty, relates to a musical cryptography project I am working on that is based the heptagon. Perhaps I will write another post about it.
 
 The structure of the page was in part motivated by what prospective clients or employers would want to see on the page and also let anyone interested knowing more about me and my skills. As such, the page is formed of 6 sections:
-1. Landing area (home).
+1 Landing area (home).
 2. Portfolio.
 3. About
 4. Blog
