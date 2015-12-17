@@ -1,3 +1,7 @@
+---
+layout: post
+title: How My Website Was Made (Part 2)
+---
 This is part two of 'How my main website was made', which will cover the tools I used and why I chose them.
 
 Aside from the standard HTML5 and CSS, the main tools I used were:
