@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How My Website Was Made
+title: How My Website Was Made (Part 1)
 ---
 I have broken this down into three parts. 
 
