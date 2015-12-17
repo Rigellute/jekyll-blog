@@ -3,9 +3,9 @@ layout: post
 title: How My Website Was Made
 ---
 I have broken this down into three parts. 
-+ Part one covers the design process. 
-+ Part two covers the tools I used.
-+ Part three covers more technical details (like the scrolling animations) and goes through some of the many challenges I ran into, including how I overcame them.
+* Part one covers the design process. 
+* Part two covers the tools I used.
+* Part three covers more technical details (like the scrolling animations) and goes through some of the many challenges I ran into, including how I overcame them.
 
 This is part one which will cover the design process in building my home webpage:
 ### 1. Design
@@ -19,11 +19,11 @@ My brand logo is a simple heptagon (in SVG format for crisp, scalable greatness)
 
 The structure of the page was in part motivated by what prospective clients or employers would want to see on the page and also let anyone interested knowing more about me and my skills. As such, the page is formed of 6 sections:
 1. Landing area (home).
-2. Portfolio.
-3. About
-4. Blog
-5. Testimonials
-6. Contact
+1. Portfolio.
+1. About
+1. Blog
+1. Testimonials
+1. Contact
 
 I wanted the landing area to have minimal amounts of information but enough events of interest to encourage the user to scroll down or click on the call to action button, taking them to see my portfolio of work (the next section).
 
