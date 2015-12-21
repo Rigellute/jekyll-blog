@@ -54,12 +54,13 @@
     
     <script>
     $(document).ready(function(){
-      TweenMax.staggerFrom(".gsap-cycle", 0.5, {
-          x: -100,
-          opacity: 0,
-          ease: Power2.easeInOut
-        }, 0.10);
-      TweenMax.to('.gsap-rotate', 100, {delay: 3, rotation: '360deg', repeat: -1});
+      // TweenMax.staggerFrom(".gsap-cycle", 0.5, {
+      //     x: -100,
+      //     opacity: 0,
+      //     ease: Power2.easeInOut
+      //   }, 0.10);
+      TweenMax.from('.gsap-rotate', 1.5, {scale: 0});
+      TweenMax.to('.gsap-rotate', 60, {delay: 3, rotation: '360deg', repeat: -1});
     });
     </script>
   </body>
