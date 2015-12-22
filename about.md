@@ -44,6 +44,7 @@ I now specialise in client-side Javascript, HTML, and CSS. Though I am also comf
 ###  Interests
 
 My interests are many, and I dedicate a large portion of my time to bettering myself in them.
+
 * Computer Science
     * Programming languages: 
        * Javascript 
