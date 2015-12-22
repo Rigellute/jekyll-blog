@@ -3,7 +3,7 @@ layout: post
 title: More About Me
 ---
 
-After completing my Masters degree in 2014, I decided to take a break from formal education and explore areas of business related to my other major passions of Music and Technology. I began an internship with the classical musical publisher Edition Peters in Old Street, London. 
+After completing my Masters degree in 2014, I decided to take a break from formal education and explore areas of business related to my other major passions of Music and Technology. I began an internship with the classical musical publisher [Edition Peters](http://www.edition-peters.com/) in Old Street, London. 
 
 This experience was instrumental in forming ideas about my future; I discovered what I enjoy and what I don't, what interests me and what doesn't. I gained experience in every department of the company, from musical engraving and score design to printing and accounts.
 
